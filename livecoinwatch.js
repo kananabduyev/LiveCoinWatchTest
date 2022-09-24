@@ -33,3 +33,4 @@ describe('livecoinwatch', function() {
     await driver.close()
   })
 })
+})
